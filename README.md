@@ -44,3 +44,7 @@ A digital safe/lock box with a touch button input with the 3 leds at the top (Th
 Two relays or opto-isolated highside FETs are needed to
   1. Hold the power on and
   2. Trigger the safe solenoid
+
+**Wiring**
+<img width="1096" height="571" alt="kids_safe_wiring" src="https://github.com/user-attachments/assets/146f635c-1809-42b6-a116-5fc8bb65c0e5" />
+
